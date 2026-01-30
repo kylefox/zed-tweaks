@@ -128,8 +128,8 @@
         "modified.border": "#ffca85",
         "players": [
           {
-            "cursor": "#a277ff",
             "background": "#a277ff",
+            "cursor": "#00feff",
             "selection": "#3d375e7f"
           },
           {
