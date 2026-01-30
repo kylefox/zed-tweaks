@@ -19,6 +19,8 @@
         "editor.gutter.background": "#0B0C17",
         "editor.highlighted_line.background": "#a394f033",
         "editor.invisible": "#4d466e",
+        "editor.indent_guide": "#211835",
+        "editor.indent_guide_active": "#43316c",
         "editor.line_number": "#a394f033",
         "editor.subheader.background": "#080812",
         "editor.wrap_guide": "#4d4d4d",
