@@ -9,10 +9,16 @@
   "selection_highlight": false,
   "inline_code_actions": false,
   "lsp_document_colors": "none",
+  "preview_tabs": {
+    "enabled": false,
+  },
   "drag_and_drop_selection": {
     "enabled": false,
   },
   "tab_size": 2,
+  "tab_bar": {
+    "show_nav_history_buttons": false,
+  },
   "seed_search_query_from_cursor": "never",
   "current_line_highlight": "none",
   "agent_buffer_font_size": 16,
@@ -43,7 +49,11 @@
   },
   "theme": "Kaura Dark",
   "theme_overrides": {
-    "Kaura Dark": {},
+    "Kaura Dark": {
+      "text": "#c6c7ff",
+      "text.muted": "#7a7b9d",
+      "element.selected": "#2e2a477f",
+    },
   },
   "title_bar": {
     "show_onboarding_banner": false,
