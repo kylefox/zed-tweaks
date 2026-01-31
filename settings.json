@@ -18,6 +18,7 @@
   "tab_size": 2,
   "tab_bar": {
     "show_nav_history_buttons": false,
+    "show_tab_bar_buttons": false,
   },
   "seed_search_query_from_cursor": "never",
   "current_line_highlight": "none",
@@ -49,11 +50,7 @@
   },
   "theme": "Kaura Dark",
   "theme_overrides": {
-    "Kaura Dark": {
-      "text": "#c6c7ff",
-      "text.muted": "#7a7b9d",
-      "element.selected": "#2e2a477f",
-    },
+    "Kaura Dark": {},
   },
   "title_bar": {
     "show_onboarding_banner": false,
