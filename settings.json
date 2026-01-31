@@ -1,0 +1,74 @@
+{
+  "icon_theme": "Base Charmed Icons",
+  "buffer_font_family": "JetBrainsMono Nerd Font Mono",
+  "buffer_font_size": 18,
+  "buffer_font_weight": 300,
+  "buffer_line_height": {
+    "custom": 2,
+  },
+  "selection_highlight": false,
+  "inline_code_actions": false,
+  "lsp_document_colors": "none",
+  "drag_and_drop_selection": {
+    "enabled": false,
+  },
+  "tab_size": 2,
+  "seed_search_query_from_cursor": "never",
+  "current_line_highlight": "none",
+  "agent_buffer_font_size": 16,
+  "agent_ui_font_size": 20,
+  "indent_guides": {
+    "active_line_width": 1,
+  },
+  // "show_completions_on_input": false,
+  // "hover_popover_enabled": false,
+  "outline_panel": { "button": false },
+  "collaboration_panel": { "button": false },
+  "diagnostics": { "button": false },
+  "search": { "button": false },
+  "git_panel": { "button": false },
+  "debugger": { "button": false },
+  "agent": { "button": false },
+  "notification_panel": { "button": false },
+  "terminal": { "button": false },
+  "show_whitespaces": "all",
+  "git": {
+    "inline_blame": {
+      "enabled": false,
+    },
+  },
+  "tabs": {
+    "file_icons": true,
+    "git_status": true,
+  },
+  "theme": "Kaura Dark",
+  "theme_overrides": {
+    "Kaura Dark": {},
+  },
+  "title_bar": {
+    "show_onboarding_banner": false,
+  },
+  "toolbar": {
+    "quick_actions": false,
+    "breadcrumbs": false,
+  },
+  "project_panel": {
+    "button": false,
+    "hide_root": true,
+    "auto_fold_dirs": true,
+    "sticky_scroll": false,
+  },
+  "gutter": {
+    "min_line_number_digits": 0,
+    "folds": false,
+    "runnables": false,
+    "breakpoints": false,
+  },
+  "languages": {
+    "Ruby": {
+      "language_servers": ["ruby-lsp", "!solargraph"],
+    },
+  },
+  "scroll_beyond_last_line": "vertical_scroll_margin",
+  "vertical_scroll_margin": 8,
+}
