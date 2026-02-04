@@ -13,7 +13,8 @@
     "custom": 2,
   },
   "cursor_shape": "block",
-  "cursor_blink": false,
+  "cursor_blink": true,
+  "extend_comment_on_newline": false,
   "active_pane_modifiers": {
     "border_size": 1.0,
     "inactive_opacity": 1.0,
